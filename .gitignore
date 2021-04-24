@@ -1,6 +1,7 @@
 .idea/
 /dj_blog/myblog/static/images/*.*
 !/dj_blog/myblog/static/images/.gitkeep
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
